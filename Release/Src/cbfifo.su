@@ -1,0 +1,8 @@
+../Src/cbfifo.c:35:6:cbfifo_init	16	static
+../Src/cbfifo.c:55:8:cbfifo_enqueue	40	static
+../Src/cbfifo.c:88:8:cbfifo_dequeue	40	static
+../Src/cbfifo.c:114:8:cbfifo_peek	16	static
+../Src/cbfifo.c:131:8:cbfifo_length	16	static
+../Src/cbfifo.c:144:8:cbfifo_capacity	16	static
+../Src/cbfifo.c:149:8:cbfifo_enqueue_float	24	static
+../Src/cbfifo.c:156:8:cbfifo_dequeue_float	32	static

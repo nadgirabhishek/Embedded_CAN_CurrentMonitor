@@ -1,0 +1,6 @@
+../Src/uart_functions.c:17:6:uart_getchar	2
+../Src/uart_functions.c:31:6:uart_putchar	2
+../Src/uart_functions.c:44:5:__io_getchar	2
+../Src/uart_functions.c:65:5:__io_putchar	3
+../Src/uart_functions.c:87:6:uart_echo	1
+../Src/uart_functions.c:104:6:uart_printstring	2

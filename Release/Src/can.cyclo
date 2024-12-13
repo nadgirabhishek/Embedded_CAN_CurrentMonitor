@@ -1,0 +1,6 @@
+../CMSIS/core_cm0.h:623:22:__NVIC_EnableIRQ	2
+../CMSIS/core_cm0.h:732:22:__NVIC_SetPriority	2
+../Src/can.c:43:6:can_init	3
+../Src/can.c:106:6:can_transmit_0	2
+../Src/can.c:131:6:can_transmit_16bit_0	2
+../Src/can.c:168:6:can_transmit_float	2

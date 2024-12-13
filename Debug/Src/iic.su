@@ -1,0 +1,7 @@
+../Src/iic.c:24:6:I2C_Init	8	static
+../Src/iic.c:43:6:I2C_Start	16	static
+../Src/iic.c:52:6:I2C_Stop	16	static
+../Src/iic.c:60:9:I2C_Write	32	static
+../Src/iic.c:83:9:I2C_Read	32	static
+../Src/iic.c:111:6:INA219_WriteRegister	16	static
+../Src/iic.c:120:10:INA219_ReadRegister	32	static

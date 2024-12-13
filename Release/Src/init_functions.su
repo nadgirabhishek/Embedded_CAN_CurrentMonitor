@@ -1,0 +1,5 @@
+../CMSIS/core_cm0.h:623:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../CMSIS/core_cm0.h:732:22:__NVIC_SetPriority	24	static
+../Src/init_functions.c:20:6:uart_init	8	static
+../Src/init_functions.c:45:6:init_uled	8	static
+../Src/init_functions.c:58:6:SysTick_Init	8	static

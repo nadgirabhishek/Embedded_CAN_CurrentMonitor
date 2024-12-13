@@ -1,0 +1,6 @@
+../Src/ina219.c:42:5:INA219_Init	32	static
+../Src/ina219.c:68:7:INA219_ReadBusVoltage	24	static
+../Src/ina219.c:89:7:INA219_ReadShuntVoltage	16	static
+../Src/ina219.c:95:7:INA219_ReadPower	24	static
+../Src/ina219.c:101:7:INA219_ReadCurrent	16	static
+../Src/ina219.c:107:6:INA219_ReadAll	24	static

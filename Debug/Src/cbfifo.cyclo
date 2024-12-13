@@ -1,0 +1,8 @@
+../Src/cbfifo.c:35:6:cbfifo_init	2
+../Src/cbfifo.c:55:8:cbfifo_enqueue	7
+../Src/cbfifo.c:88:8:cbfifo_dequeue	7
+../Src/cbfifo.c:114:8:cbfifo_peek	4
+../Src/cbfifo.c:131:8:cbfifo_length	2
+../Src/cbfifo.c:144:8:cbfifo_capacity	2
+../Src/cbfifo.c:149:8:cbfifo_enqueue_float	1
+../Src/cbfifo.c:156:8:cbfifo_dequeue_float	2

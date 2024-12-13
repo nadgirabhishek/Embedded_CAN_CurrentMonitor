@@ -1,0 +1,11 @@
+../Src/commands.c:35:6:ULED_ON	8	static
+../Src/commands.c:47:6:ULED_OFF	8	static
+../Src/commands.c:60:6:cmd_led	16	static
+../Src/commands.c:85:6:cmd_echo	24	static
+../Src/commands.c:103:6:cmd_hexdump	40	static
+../Src/commands.c:168:6:cmd_ina219_read	32	static
+../Src/commands.c:195:6:cmd_ina219_write	24	static
+../Src/commands.c:224:6:cmd_ina219_readall	32	static
+../Src/commands.c:256:6:cmd_can_init	16	static
+../Src/commands.c:277:6:cmd_can_trasnmit	24	static
+../Src/commands.c:299:6:cmd_can_abort	16	static

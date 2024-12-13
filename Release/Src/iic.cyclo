@@ -1,0 +1,7 @@
+../Src/iic.c:35:6:I2C_Init	1
+../Src/iic.c:61:6:I2C_Start	3
+../Src/iic.c:77:6:I2C_Stop	3
+../Src/iic.c:94:9:I2C_Write	6
+../Src/iic.c:126:9:I2C_Read	7
+../Src/iic.c:162:6:INA219_WriteRegister	1
+../Src/iic.c:179:10:INA219_ReadRegister	1

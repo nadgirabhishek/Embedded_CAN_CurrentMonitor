@@ -1,0 +1,3 @@
+../Src/functions.c:18:6:accumulate_line	11
+../Src/functions.c:67:5:tokenize_line	3
+../Src/functions.c:86:6:process_command	4
