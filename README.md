@@ -8,6 +8,9 @@ This project demonstrates a modular firmware design for an STM32F091RC Nucleo bo
 - Adjustable sensor configurations for INA219 current sensor.
 - Basic command processor and circular buffer FIFO (CBFIFO) for testing and data handling.
 
+Below is the **block diagram** of the system:
+![System Block Diagram](PES.jpg)
+
 ## Key Features
 
 ### Role Configuration
