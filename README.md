@@ -9,7 +9,7 @@ This project demonstrates a modular firmware design for an STM32F091RC Nucleo bo
 - Basic command processor and circular buffer FIFO (CBFIFO) for testing and data handling.
 
 Below is the **block diagram** of the system:
-![System Block Diagram](PES.jpg)
+![System Block Diagram](PES.jpeg)
 
 ## Key Features
 
